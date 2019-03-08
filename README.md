@@ -1,0 +1,2 @@
+# chaskis
+Inspired by the Inca messengers of South America: chaskis is built on a Gossip TCP abstraction layer focused on packet  manages asynchronous decision making on znode watchers for Zookeeper's Patch Cache: A utility that attempts to patrol whenever a child is added, updated, or removed. ZooKeeper is simple. ZooKeeper allows distributed processes to coordinate with each other through a shared hierarchal namespace which is organized similarly to a standard file system. 
