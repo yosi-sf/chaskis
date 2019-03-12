@@ -74,7 +74,7 @@ pub fn init() -> Result<Config, Vec<&' static str>> {
 
         let chaskis_db_url = vars.remove(CHASKIS_DB_URL).unwrap();
         let chaskis_db_pool_size = vars.remove(CHASKIS_DB_POOL_SIZE).unwrap().parse::<u32>();
-        let chaskis_db_pool_size = ok_or
+        //let chaskis_db_pool_size = ok_or
     }
 
 }
