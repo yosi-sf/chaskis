@@ -117,10 +117,10 @@ lazi_static! {
                 }
             }
 
-    }
+       };
 
 
-}
+
     
 
 quick_main!(run);
@@ -185,6 +185,6 @@ fn run() -> Result<()> {
          znode::server(znode::listen_local(listen_port, peer_addresses))?
                 .serve(observer)
 
-}
+   }
 
 }
